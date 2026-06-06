@@ -1,0 +1,13 @@
+{
+  "Records": [
+    {
+      "eventSource": "aws:s3",
+      "awsRegion": "us-east-1",
+      "eventName": "ObjectCreated:Put",
+      "s3": {
+        "bucket": { "name": "viprasol-uploads" },
+        "object": { "key": "incoming/report+2025.csv", "size": 1024 }
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "httpMethod": "POST",
+  "path": "/echo",
+  "headers": { "Content-Type": "application/json" },
+  "queryStringParameters": null,
+  "body": "{\"message\":\"hello from viprasol\"}",
+  "isBase64Encoded": false
+}
